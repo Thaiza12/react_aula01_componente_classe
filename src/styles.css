@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    border: 3px double pink;
+    background-color: whitesmoke;
+    padding: 3%;
+    margin: 10%;
+  }
+  
+  body {
+    background-color: coral;
+  }
+  
